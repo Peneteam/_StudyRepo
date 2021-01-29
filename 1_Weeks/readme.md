@@ -1,4 +1,4 @@
-## 1 Weeks
+## 1 Weeks : Notice, git & github
 
 ### Format
 
