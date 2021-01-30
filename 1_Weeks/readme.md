@@ -25,7 +25,7 @@
 ### Content : How to git & github & Markdown?
 
 - Mark Down
- - Reference : https://gist.github.com/ihoneymon/652be052a0727ad59601
+  - Reference : https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 - git : (분산형)버전관리 시스템
   - Resource : https://linked2ev.github.io/devlog/2018/08/27/Git-1.-What-is-Git/
