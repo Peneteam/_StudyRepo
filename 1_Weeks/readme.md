@@ -1,28 +1,13 @@
 ## 1 Weeks : Notice, git & github
-
-### Format
-
 ---
 
-## Author :
+#### Author : jak010
 
-### Date :
+#### Date : 2021.01.29
 
-### Title : 
+#### Title : Study About git
 
-#### Content :
-
-#### Assign : 
-
----
-
-## Author : jak010
-
-### Date : 2021.01.29
-
-### Title : Study About git
-
-### Content : How to git & github & Markdown?
+#### Content : How to git & github & Markdown?
 
 - Mark Down
   - Reference : https://gist.github.com/ihoneymon/652be052a0727ad59601
